@@ -1,0 +1,16 @@
+[manifest]
+id = "gb_dance_skips"
+version = "1.0.0"
+display_name = "GB Dance Skips"
+description = "Skips golden banana collection dance cutscenes. That's it!"
+short_description = "Skips golden banana collection dance cutscenes. That's it!"
+authors = [ "geoffhuntsgood" ]
+game_id = "dk64"
+minimum_recomp_version = "1.0.0"
+
+[inputs]
+elf_path = "build/mod.elf"
+mod_filename = "gb_dance_skips"
+func_reference_syms_file = "Dk64Syms/dump.toml"
+data_reference_syms_files = [ "Dk64Syms/data_dump.toml" ]
+additional_files = ["thumb.dds"]
