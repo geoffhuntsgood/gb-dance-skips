@@ -1,6 +1,6 @@
 [manifest]
 id = "gb_dance_skips"
-version = "1.0.0"
+version = "1.0.1"
 display_name = "GB Dance Skips"
 description = "Skips golden banana collection dance cutscenes. That's it!"
 short_description = "Skips golden banana collection dance cutscenes. That's it!"
